@@ -1,2 +1,2 @@
-# Modelling-DNNs
+# DNN Modelling
 Group 1
